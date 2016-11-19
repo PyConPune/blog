@@ -1,0 +1,13 @@
+baseurl = "http://pune.pycon.org/"
+languageCode = "en-us"
+title = "PyCon Pune Blog"
+theme = "hugo-zen"
+copyright = "2016 All rights reserved"
+
+[params]
+  logo      = "/images/logo.jpg"
+  twitter   = "https://twitter.com/pyconpune"
+  facebook  = "https://www.facebook.com/pyconpune"
+  github    = "https://github.com/pyconpune"
+  email     = "pyconpune@gmail.com"
+  analytics = "UA-86644340-1"
