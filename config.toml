@@ -1,8 +1,9 @@
-baseurl = "http://pune.pycon.org/"
+baseurl = "http://pune.pycon.org/blog/"
 languageCode = "en-us"
 title = "PyCon Pune Blog"
 theme = "hugo-zen"
 copyright = "2016 All rights reserved"
+canonifyurls = true
 
 [params]
   logo      = "/images/logo.jpg"
