@@ -1,4 +1,4 @@
-baseurl = "http://pune.pycon.org/blog/"
+baseurl = "https://pune.pycon.org/blog/"
 languageCode = "en-us"
 title = "PyCon Pune Blog"
 theme = "hugo-zen"
