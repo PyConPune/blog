@@ -7,8 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016 All rights reserved</copyright>
-    <lastBuildDate>Sat, 19 Nov 2016 21:51:36 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 23 Nov 2016 12:00:00 +0530</lastBuildDate>
     <atom:link href="https://pune.pycon.org/blog/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome Elastic</title>
+      <link>https://pune.pycon.org/blog/post/welcome-elastic/</link>
+      <pubDate>Wed, 23 Nov 2016 12:00:00 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/post/welcome-elastic/</guid>
+      <description>&lt;p&gt;Glad to announce &lt;a href=&#34;https://www.elastic.co/&#34;&gt;Elastic&lt;/a&gt; as our sponsor for PyCon Pune 2017. Thanks &lt;a href=&#34;https://twitter.com/elastic&#34;&gt;@elastic&lt;/a&gt; for supporting PyCon Pune 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://pune.pycon.org/blog/images/elastic.png&#34; alt=&#34;Elastic&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Register for PyCon Pune 2017 &lt;a href=&#34;https://pune.pycon.org/registration/&#34;&gt;https://pune.pycon.org/registration/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Hello World</title>
