@@ -5,7 +5,7 @@ tags = ["keynote", "speaker", "pyconpune"]
 title = "Welcome Katie Cunningham"
 +++
 
-Welcome Katie Cunningham as our keynote speaker for PyCon Pune 2017.
+Welcome [Katie Cunningham](http://therealkatie.net) as our keynote speaker for [PyCon Pune 2017](https://pune.pycon.org/).
 
 Katie Cunningham is a Python developer who is also a regular speaker,
 teacher, and writer of technical books. When she's not cursing at
@@ -21,4 +21,4 @@ You can follow her on Twitter at [@kcunning](https://twitter.com/kcunning)
 
 
 
-Register for PyCon Pune 2017 [https://pune.pycon.org/registration/](https://pune.pycon.org/registration/)
+Register and meet Katie at PyCon Pune 2017 [https://pune.pycon.org/registration/](https://pune.pycon.org/registration/)
