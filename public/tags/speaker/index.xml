@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Pyconpune on PyCon Pune Blog</title>
-    <link>https://pune.pycon.org/blog/tags/pyconpune/</link>
-    <description>Recent content in Pyconpune on PyCon Pune Blog</description>
+    <title>Speaker on PyCon Pune Blog</title>
+    <link>https://pune.pycon.org/blog/tags/speaker/</link>
+    <description>Recent content in Speaker on PyCon Pune Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016 All rights reserved</copyright>
     <lastBuildDate>Wed, 23 Nov 2016 20:16:00 +0530</lastBuildDate>
-    <atom:link href="https://pune.pycon.org/blog/tags/pyconpune/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pune.pycon.org/blog/tags/speaker/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Welcome Katie Cunningham</title>
@@ -29,20 +29,6 @@ curses English grammar on a regular basis.&lt;/p&gt;
 
 &lt;p&gt;Katie lives in the DC area with her husband, two kids, and two dogs.
 You can follow her on Twitter at &lt;a href=&#34;https://twitter.com/kcunning&#34;&gt;@kcunning&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Register for PyCon Pune 2017 &lt;a href=&#34;https://pune.pycon.org/registration/&#34;&gt;https://pune.pycon.org/registration/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Welcome Elastic</title>
-      <link>https://pune.pycon.org/blog/post/welcome-elastic/</link>
-      <pubDate>Wed, 23 Nov 2016 12:00:00 +0530</pubDate>
-      
-      <guid>https://pune.pycon.org/blog/post/welcome-elastic/</guid>
-      <description>&lt;p&gt;Glad to announce &lt;a href=&#34;https://www.elastic.co/&#34;&gt;Elastic&lt;/a&gt; as our sponsor for PyCon Pune 2017. Thanks &lt;a href=&#34;https://twitter.com/elastic&#34;&gt;@elastic&lt;/a&gt; for supporting PyCon Pune 2017.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pune.pycon.org/blog/images/elastic.png&#34; alt=&#34;Elastic&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Register for PyCon Pune 2017 &lt;a href=&#34;https://pune.pycon.org/registration/&#34;&gt;https://pune.pycon.org/registration/&lt;/a&gt;&lt;/p&gt;
 </description>
