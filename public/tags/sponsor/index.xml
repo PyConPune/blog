@@ -7,8 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016 All rights reserved</copyright>
-    <lastBuildDate>Wed, 23 Nov 2016 12:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Wed, 30 Nov 2016 09:00:00 +0530</lastBuildDate>
     <atom:link href="https://pune.pycon.org/blog/tags/sponsor/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Welcome Python Software Foundation</title>
+      <link>https://pune.pycon.org/blog/post/welcome-psf/</link>
+      <pubDate>Wed, 30 Nov 2016 09:00:00 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/post/welcome-psf/</guid>
+      <description>&lt;p&gt;Glad to announce &lt;a href=&#34;https://www.python.org/psf/&#34;&gt;Python Software Foundation&lt;/a&gt; as our sponsor for PyCon Pune 2017. Thanks &lt;a href=&#34;https://twitter.com/thepsf&#34;&gt;@ThePSF&lt;/a&gt; for supporting PyCon Pune 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://pune.pycon.org/blog/images/psf-logo.png&#34; alt=&#34;Python Software Foundation&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Register for PyCon Pune 2017 &lt;a href=&#34;https://pune.pycon.org/registration/&#34;&gt;https://pune.pycon.org/registration/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Welcome Elastic</title>
