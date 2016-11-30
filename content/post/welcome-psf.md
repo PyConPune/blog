@@ -1,5 +1,5 @@
 +++
-date = "2016-11-23T12:00:00+05:30"
+date = "2016-11-30T09:00:00+05:30"
 slug = "welcome-psf"
 tags = ["sponsor", "pyconpune"]
 title = "Welcome Python Software Foundation"
