@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Facility on PyCon Pune Blog</title>
+    <link>https://pune.pycon.org/blog/tags/facility/</link>
+    <description>Recent content in Facility on PyCon Pune Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2016 All rights reserved</copyright>
+    <lastBuildDate>Tue, 20 Dec 2016 14:39:17 +0530</lastBuildDate>
+    <atom:link href="https://pune.pycon.org/blog/tags/facility/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Child care facility during PyCon Pune</title>
+      <link>https://pune.pycon.org/blog/post/child-care-facility/</link>
+      <pubDate>Tue, 20 Dec 2016 14:39:17 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/post/child-care-facility/</guid>
+      <description>&lt;p&gt;We are planning to provide child care facility during the conference. If you
+are coming down with your kids and want to avail the child care facility, then
+please fill up &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdFcFXwRONVHiN5gveTw3fYtP9sO57lOmBwGrOdymGZC62BZQ/viewform&#34;&gt;this
+form&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
