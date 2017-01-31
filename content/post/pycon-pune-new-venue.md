@@ -5,6 +5,7 @@ tags = ["venue", "pyconpune"]
 title = "New venue for the main conference, PyCon Pune 2017"
 +++
 
+![Amanora The Fern](/images/amanora.jpg)
 
 Over the last week we found out that the auditorium of COEP will not be
 available for the whole duration of PyCon Pune 2017. Due to the already
