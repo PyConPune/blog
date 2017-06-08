@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Announcement on PyCon Pune Blog</title>
+    <link>https://pune.pycon.org/blog/tags/announcement/</link>
+    <description>Recent content in Announcement on PyCon Pune Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2016 All rights reserved</copyright>
+    <lastBuildDate>Thu, 08 Jun 2017 18:39:52 +0530</lastBuildDate>
+    
+	<atom:link href="https://pune.pycon.org/blog/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A new Mailing List for us</title>
+      <link>https://pune.pycon.org/blog/post/a-new-mailing-list-for-us/</link>
+      <pubDate>Thu, 08 Jun 2017 18:39:52 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/post/a-new-mailing-list-for-us/</guid>
+      <description>Hello world</description>
+    </item>
+    
+  </channel>
+</rss>

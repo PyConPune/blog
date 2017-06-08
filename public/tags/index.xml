@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on PyCon Pune Blog</title>
+    <link>https://pune.pycon.org/blog/tags/</link>
+    <description>Recent content in Tags on PyCon Pune Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>2016 All rights reserved</copyright>
+    <lastBuildDate>Thu, 08 Jun 2017 18:39:52 +0530</lastBuildDate>
+    
+	<atom:link href="https://pune.pycon.org/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Announcement</title>
+      <link>https://pune.pycon.org/blog/tags/announcement/</link>
+      <pubDate>Thu, 08 Jun 2017 18:39:52 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/announcement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beginning</title>
+      <link>https://pune.pycon.org/blog/tags/beginning/</link>
+      <pubDate>Sat, 19 Nov 2016 21:51:36 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/beginning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Care</title>
+      <link>https://pune.pycon.org/blog/tags/care/</link>
+      <pubDate>Tue, 20 Dec 2016 14:39:17 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Child</title>
+      <link>https://pune.pycon.org/blog/tags/child/</link>
+      <pubDate>Tue, 20 Dec 2016 14:39:17 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/child/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Conference</title>
+      <link>https://pune.pycon.org/blog/tags/conference/</link>
+      <pubDate>Tue, 06 Dec 2016 14:57:00 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/conference/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facility</title>
+      <link>https://pune.pycon.org/blog/tags/facility/</link>
+      <pubDate>Tue, 20 Dec 2016 14:39:17 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/facility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keynote</title>
+      <link>https://pune.pycon.org/blog/tags/keynote/</link>
+      <pubDate>Wed, 23 Nov 2016 20:16:00 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/keynote/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>List</title>
+      <link>https://pune.pycon.org/blog/tags/list/</link>
+      <pubDate>Thu, 08 Jun 2017 18:39:52 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/list/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mailing</title>
+      <link>https://pune.pycon.org/blog/tags/mailing/</link>
+      <pubDate>Thu, 08 Jun 2017 18:39:52 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/mailing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pyconpune</title>
+      <link>https://pune.pycon.org/blog/tags/pyconpune/</link>
+      <pubDate>Thu, 08 Jun 2017 18:39:52 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/pyconpune/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://pune.pycon.org/blog/tags/python/</link>
+      <pubDate>Tue, 06 Dec 2016 14:57:00 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Speaker</title>
+      <link>https://pune.pycon.org/blog/tags/speaker/</link>
+      <pubDate>Wed, 23 Nov 2016 20:16:00 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/speaker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sponsor</title>
+      <link>https://pune.pycon.org/blog/tags/sponsor/</link>
+      <pubDate>Wed, 04 Jan 2017 12:00:00 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/sponsor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Venue</title>
+      <link>https://pune.pycon.org/blog/tags/venue/</link>
+      <pubDate>Tue, 31 Jan 2017 18:30:17 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/venue/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

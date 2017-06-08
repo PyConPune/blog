@@ -7,8 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016 All rights reserved</copyright>
-    <lastBuildDate>Tue, 31 Jan 2017 18:30:17 +0530</lastBuildDate>
-    <atom:link href="https://pune.pycon.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jun 2017 18:39:52 +0530</lastBuildDate>
+    
+	<atom:link href="https://pune.pycon.org/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>A new Mailing List for us</title>
+      <link>https://pune.pycon.org/blog/post/a-new-mailing-list-for-us/</link>
+      <pubDate>Thu, 08 Jun 2017 18:39:52 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/post/a-new-mailing-list-for-us/</guid>
+      <description>Hello world</description>
+    </item>
     
     <item>
       <title>New venue for the main conference, PyCon Pune 2017</title>
@@ -16,26 +27,8 @@
       <pubDate>Tue, 31 Jan 2017 18:30:17 +0530</pubDate>
       
       <guid>https://pune.pycon.org/blog/post/pycon-pune-new-venue/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://pune.pycon.org/blog/images/amanora.jpg&#34; alt=&#34;Amanora The Fern&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Over the last week we found out that the auditorium of COEP will not be
-available for the whole duration of PyCon Pune 2017. Due to the already
-action-packed &lt;a href=&#34;https://pyconpune.talkfunnel.com/2017/schedule&#34;&gt;schedule&lt;/a&gt; we were unable to adjust our
-schedule to meet the venue availability and we were forced to look for an
-alternate venue at the last moment.&lt;/p&gt;
-
-&lt;p&gt;After a lot of sleepless nights balancing budgets and tireless days running
-around looking for an alternate venue, we are happy to announce that our new
-venue for the main conference is &lt;em&gt;AMANORA THE FERN Hotels and Club&lt;/em&gt;, in Amanora
-Park Town, Magarpatta Road, Hadapsar, Pune, 411028. They are a new and
-beautiful club in Amanora Park Town who were happy to host us and we hope to
-set up a memorable event with their help.&lt;/p&gt;
-
-&lt;p&gt;We know it is late as many have already booked their stay in Pune, but we had
-no choice as we had exhausted all possibilities. As usual if you have any
-difficulties in planning then please feel free to reach out to us and we will
-try and help to the best of our abilities.&lt;/p&gt;
-</description>
+      <description>Over the last week we found out that the auditorium of COEP will not be available for the whole duration of PyCon Pune 2017. Due to the already action-packed schedule we were unable to adjust our schedule to meet the venue availability and we were forced to look for an alternate venue at the last moment.
+After a lot of sleepless nights balancing budgets and tireless days running around looking for an alternate venue, we are happy to announce that our new venue for the main conference is AMANORA THE FERN Hotels and Club, in Amanora Park Town, Magarpatta Road, Hadapsar, Pune, 411028.</description>
     </item>
     
     <item>
@@ -44,12 +37,8 @@ try and help to the best of our abilities.&lt;/p&gt;
       <pubDate>Wed, 04 Jan 2017 12:00:00 +0530</pubDate>
       
       <guid>https://pune.pycon.org/blog/post/welcome-microsoft/</guid>
-      <description>&lt;p&gt;Glad to announce &lt;a href=&#34;https://www.microsoft.com/&#34;&gt;Microsoft&lt;/a&gt; as our sponsor for PyCon Pune 2017. Thanks &lt;a href=&#34;https://twitter.com/Microsoft&#34;&gt;@Microsoft&lt;/a&gt; for supporting PyCon Pune 2017.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pune.pycon.org/blog/images/microsoft.png&#34; alt=&#34;Microsoft&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Register for PyCon Pune 2017 &lt;a href=&#34;https://pune.pycon.org/registration/&#34;&gt;https://pune.pycon.org/registration/&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Glad to announce Microsoft as our sponsor for PyCon Pune 2017. Thanks @Microsoft for supporting PyCon Pune 2017.
+Register for PyCon Pune 2017 https://pune.pycon.org/registration/</description>
     </item>
     
     <item>
@@ -58,12 +47,8 @@ try and help to the best of our abilities.&lt;/p&gt;
       <pubDate>Fri, 30 Dec 2016 09:00:00 +0530</pubDate>
       
       <guid>https://pune.pycon.org/blog/post/welcome-redhat/</guid>
-      <description>&lt;p&gt;Glad to announce &lt;a href=&#34;https://www.redhat.com/&#34;&gt;Red Hat&lt;/a&gt; as our sponsor for PyCon Pune 2017. Thanks &lt;a href=&#34;https://twitter.com/RedHatSoftware&#34;&gt;@RedHatSoftware&lt;/a&gt; for supporting PyCon Pune 2017.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pune.pycon.org/blog/images/redhat.png&#34; alt=&#34;Red Hat&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Register for PyCon Pune 2017 &lt;a href=&#34;https://pune.pycon.org/registration/&#34;&gt;https://pune.pycon.org/registration/&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Glad to announce Red Hat as our sponsor for PyCon Pune 2017. Thanks @RedHatSoftware for supporting PyCon Pune 2017.
+Register for PyCon Pune 2017 https://pune.pycon.org/registration/</description>
     </item>
     
     <item>
@@ -72,11 +57,7 @@ try and help to the best of our abilities.&lt;/p&gt;
       <pubDate>Tue, 20 Dec 2016 14:39:17 +0530</pubDate>
       
       <guid>https://pune.pycon.org/blog/post/child-care-facility/</guid>
-      <description>&lt;p&gt;We are planning to provide child care facility during the conference. If you
-are coming down with your kids and want to avail the child care facility, then
-please fill up &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdFcFXwRONVHiN5gveTw3fYtP9sO57lOmBwGrOdymGZC62BZQ/viewform&#34;&gt;this
-form&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>We are planning to provide child care facility during the conference. If you are coming down with your kids and want to avail the child care facility, then please fill up this form.</description>
     </item>
     
     <item>
@@ -85,46 +66,8 @@ form&lt;/a&gt;.&lt;/p&gt;
       <pubDate>Tue, 06 Dec 2016 14:57:00 +0530</pubDate>
       
       <guid>https://pune.pycon.org/blog/post/why-you-should-attend-pycon-pune-2017/</guid>
-      <description>
-
-&lt;h2 id=&#34;no-matter-you-re-new-or-old-to-python&#34;&gt;No matter you&amp;rsquo;re new or old to Python&lt;/h2&gt;
-
-&lt;p&gt;New to Python? Don&amp;rsquo;t know how to get started? No worries! You are in right place.
-Yes you just read it right! PyCon is one of the best places to learn Python.&lt;/p&gt;
-
-&lt;p&gt;Old to Python? There will be various talks with deep knowledge and ideas to challenge you.
-Finally, you have got a place to get people work on your project i.e, Dev Sprints.&lt;/p&gt;
-
-&lt;p&gt;From Beginner&amp;rsquo;s to Advanced, you&amp;rsquo;ll get it all at the PyCon Pune 2017 (February 16th - 19th).&lt;/p&gt;
-
-&lt;h2 id=&#34;looking-for-developers&#34;&gt;Looking for Developers?&lt;/h2&gt;
-
-&lt;p&gt;If you are looking for developers for your engineering team then PyCon is the place where you will get the best and brighest people around the world who will hang out for around four days.&lt;/p&gt;
-
-&lt;h2 id=&#34;keynote-speakers&#34;&gt;Keynote Speakers&lt;/h2&gt;
-
-&lt;p&gt;Keynote is the major attraction of any conference. At PyCon Pune, there will be six Keynote speakers.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://twitter.com/ncoghlan_dev&#34;&gt;Nick Coghlan&lt;/a&gt;&lt;/strong&gt; works on software supply chain management tools for Red Hat, and has been a CPython core developer since 2005. Prior to joining Red Hat in June 2011, Nick spent over 12 years working as a software developer, system integrator and system architect in Australia&amp;rsquo;s aerospace &amp;amp; defence sector.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://twitter.com/HonzaKral&#34;&gt;Honza Kral&lt;/a&gt;&lt;/strong&gt; is a Python programmer and Django core developer – since he is scared of the bright and shiny world of browsers, designers, and users he prefers to stay buried deep in the infrastructure code and just provides others with tools to do the actual site-building. Since 2008 Honza has been building content web sites for fun and profit. During this time he discovered Elasticsearch which lead to him joining the company behind it in 2013 to work on the Python drivers.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://twitter.com/_gnovi&#34;&gt;Praveen Patil&lt;/a&gt;&lt;/strong&gt; Praveen has been Google Summer of Code alumnus (GSoC 2014, 2015 and 2016). He is also mentor for Google Code-In and proud Fedora volunteer. Actively involved in ExpEYES project (&lt;a href=&#34;http://expeyes.in&#34;&gt;http://expeyes.in&lt;/a&gt;), teacher training programs and in the free time develops e-content for National Repository of Open Educational Resources (NROER). Experimenting and exploring the use of Python to actively engage the students and help them visualize the concepts of science and maths and have better understanding.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://twitter.com/warty&#34;&gt;John &amp;lsquo;warthog9&amp;rsquo; Hawley&lt;/a&gt;&lt;/strong&gt; is an infrastructure and systems software programmer/architect turned to the dark side, now building hardware and embedded software systems that run on them, and a Perl guy, declared a Python programmer.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://twitter.com/terriko&#34;&gt;Terri Oda&lt;/a&gt;&lt;/strong&gt; gets paid to break things and tell people that they&amp;rsquo;re wrong, all in the name of making open source software more secure. Her work on GNU Mailman helps open source developers communicate, her work with the Python Software Foundation helps introduce students to open source as part of Google Summer of Code, and her work in web security earned her a PhD.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://twitter.com/kcunning&#34;&gt;Katie Cunningham&lt;/a&gt;&lt;/strong&gt; is a Python developer who is also a regular speaker, teacher, and writer of technical books. When she&amp;rsquo;s not cursing at computers, Keynote, or poorly formatted chapters, she knits, sews, and secretly writes fantasy books. She is the CTO of Speak Agent, a company focused on helping kids learn English through games. There, she creates iPad apps, websites, and curses English grammar on a regular basis. Katie lives in the DC area with her husband, two kids, and two dogs.&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;dev-sprints&#34;&gt;Dev Sprints&lt;/h2&gt;
-
-&lt;p&gt;Development Sprint is a key part of PyCon. If you are looking for project to get started, or if you are looking for people to get them work on your project, then Dev Sprints is the best place where people will get together face-to-face for up to two days of itensive learning, hacking and development.&lt;/p&gt;
-
-&lt;p&gt;So yes, if you do not want to miss this golden opportunity buy your ticket now &lt;a href=&#34;https://pune.pycon.org/registration&#34;&gt;here&lt;/a&gt;. Hurry up because we are running out! :)&lt;/p&gt;
-</description>
+      <description>No matter you&amp;rsquo;re new or old to Python New to Python? Don&amp;rsquo;t know how to get started? No worries! You are in right place. Yes you just read it right! PyCon is one of the best places to learn Python.
+Old to Python? There will be various talks with deep knowledge and ideas to challenge you. Finally, you have got a place to get people work on your project i.</description>
     </item>
     
     <item>
@@ -133,12 +76,8 @@ Finally, you have got a place to get people work on your project i.e, Dev Sprint
       <pubDate>Wed, 30 Nov 2016 09:00:00 +0530</pubDate>
       
       <guid>https://pune.pycon.org/blog/post/welcome-psf/</guid>
-      <description>&lt;p&gt;Glad to announce &lt;a href=&#34;https://www.python.org/psf/&#34;&gt;Python Software Foundation&lt;/a&gt; as our sponsor for PyCon Pune 2017. Thanks &lt;a href=&#34;https://twitter.com/thepsf&#34;&gt;@ThePSF&lt;/a&gt; for supporting PyCon Pune 2017.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pune.pycon.org/blog/images/psf-logo.png&#34; alt=&#34;Python Software Foundation&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Register for PyCon Pune 2017 &lt;a href=&#34;https://pune.pycon.org/registration/&#34;&gt;https://pune.pycon.org/registration/&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Glad to announce Python Software Foundation as our sponsor for PyCon Pune 2017. Thanks @ThePSF for supporting PyCon Pune 2017.
+Register for PyCon Pune 2017 https://pune.pycon.org/registration/</description>
     </item>
     
     <item>
@@ -147,22 +86,9 @@ Finally, you have got a place to get people work on your project i.e, Dev Sprint
       <pubDate>Wed, 23 Nov 2016 20:16:00 +0530</pubDate>
       
       <guid>https://pune.pycon.org/blog/post/welcome-katie/</guid>
-      <description>&lt;p&gt;Welcome &lt;a href=&#34;http://therealkatie.net&#34;&gt;Katie Cunningham&lt;/a&gt; as our keynote speaker for &lt;a href=&#34;https://pune.pycon.org/&#34;&gt;PyCon Pune 2017&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Katie Cunningham is a Python developer who is also a regular speaker,
-teacher, and writer of technical books. When she&amp;rsquo;s not cursing at
-computers, Keynote, or poorly formatted chapters, she knits, sews, and
-secretly writes fantasy books.&lt;/p&gt;
-
-&lt;p&gt;She is the CTO of Speak Agent, a company focused on helping kids learn
-English through games. There, she creates iPad apps, websites, and
-curses English grammar on a regular basis.&lt;/p&gt;
-
-&lt;p&gt;Katie lives in the DC area with her husband, two kids, and two dogs.
-You can follow her on Twitter at &lt;a href=&#34;https://twitter.com/kcunning&#34;&gt;@kcunning&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Register and meet Katie at PyCon Pune 2017 &lt;a href=&#34;https://pune.pycon.org/registration/&#34;&gt;https://pune.pycon.org/registration/&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Welcome Katie Cunningham as our keynote speaker for PyCon Pune 2017.
+Katie Cunningham is a Python developer who is also a regular speaker, teacher, and writer of technical books. When she&amp;rsquo;s not cursing at computers, Keynote, or poorly formatted chapters, she knits, sews, and secretly writes fantasy books.
+She is the CTO of Speak Agent, a company focused on helping kids learn English through games. There, she creates iPad apps, websites, and curses English grammar on a regular basis.</description>
     </item>
     
     <item>
@@ -171,12 +97,8 @@ You can follow her on Twitter at &lt;a href=&#34;https://twitter.com/kcunning&#3
       <pubDate>Wed, 23 Nov 2016 12:00:00 +0530</pubDate>
       
       <guid>https://pune.pycon.org/blog/post/welcome-elastic/</guid>
-      <description>&lt;p&gt;Glad to announce &lt;a href=&#34;https://www.elastic.co/&#34;&gt;Elastic&lt;/a&gt; as our sponsor for PyCon Pune 2017. Thanks &lt;a href=&#34;https://twitter.com/elastic&#34;&gt;@elastic&lt;/a&gt; for supporting PyCon Pune 2017.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://pune.pycon.org/blog/images/elastic.png&#34; alt=&#34;Elastic&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Register for PyCon Pune 2017 &lt;a href=&#34;https://pune.pycon.org/registration/&#34;&gt;https://pune.pycon.org/registration/&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Glad to announce Elastic as our sponsor for PyCon Pune 2017. Thanks @elastic for supporting PyCon Pune 2017.
+Register for PyCon Pune 2017 https://pune.pycon.org/registration/</description>
     </item>
     
     <item>
@@ -185,20 +107,11 @@ You can follow her on Twitter at &lt;a href=&#34;https://twitter.com/kcunning&#3
       <pubDate>Sat, 19 Nov 2016 21:51:36 +0530</pubDate>
       
       <guid>https://pune.pycon.org/blog/post/hello-world/</guid>
-      <description>&lt;p&gt;Hello World,&lt;/p&gt;
-
-&lt;p&gt;PyCon Pune 2017, a gathering for the community using and developing the free
-and open-source Python programming language is happening from 16-19th February
-2017.&lt;/p&gt;
-
-&lt;p&gt;PyCon Pune 2017 will be the first year for the Pune Python community.
-This conference is organized by the Python community for the community.&lt;/p&gt;
-
-&lt;p&gt;The registrations are open so buy yourself a ticket as soon as possible.
-&lt;a href=&#34;https://pune.pycon.org/registration/&#34;&gt;https://pune.pycon.org/registration/&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Meet you at PyCon Pune 2017&lt;/p&gt;
-</description>
+      <description>Hello World,
+PyCon Pune 2017, a gathering for the community using and developing the free and open-source Python programming language is happening from 16-19th February 2017.
+PyCon Pune 2017 will be the first year for the Pune Python community. This conference is organized by the Python community for the community.
+The registrations are open so buy yourself a ticket as soon as possible. https://pune.pycon.org/registration/
+Meet you at PyCon Pune 2017</description>
     </item>
     
   </channel>

@@ -8,7 +8,9 @@
     <language>en-us</language>
     <copyright>2016 All rights reserved</copyright>
     <lastBuildDate>Tue, 20 Dec 2016 14:39:17 +0530</lastBuildDate>
-    <atom:link href="https://pune.pycon.org/blog/tags/care/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://pune.pycon.org/blog/tags/care/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Child care facility during PyCon Pune</title>
@@ -16,11 +18,7 @@
       <pubDate>Tue, 20 Dec 2016 14:39:17 +0530</pubDate>
       
       <guid>https://pune.pycon.org/blog/post/child-care-facility/</guid>
-      <description>&lt;p&gt;We are planning to provide child care facility during the conference. If you
-are coming down with your kids and want to avail the child care facility, then
-please fill up &lt;a href=&#34;https://docs.google.com/forms/d/e/1FAIpQLSdFcFXwRONVHiN5gveTw3fYtP9sO57lOmBwGrOdymGZC62BZQ/viewform&#34;&gt;this
-form&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <description>We are planning to provide child care facility during the conference. If you are coming down with your kids and want to avail the child care facility, then please fill up this form.</description>
     </item>
     
   </channel>
