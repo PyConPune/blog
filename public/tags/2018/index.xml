@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Announcement on PyCon Pune Blog</title>
-    <link>https://pune.pycon.org/blog/tags/announcement/</link>
-    <description>Recent content in Announcement on PyCon Pune Blog</description>
+    <title>2018 on PyCon Pune Blog</title>
+    <link>https://pune.pycon.org/blog/tags/2018/</link>
+    <description>Recent content in 2018 on PyCon Pune Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016 All rights reserved</copyright>
     <lastBuildDate>Thu, 27 Jul 2017 16:00:00 +0530</lastBuildDate>
     
-	<atom:link href="https://pune.pycon.org/blog/tags/announcement/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pune.pycon.org/blog/tags/2018/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <guid>https://pune.pycon.org/blog/post/call-for-proposal-is-open-now/</guid>
       <description>Talks, speakers are one of the primary reason to make a conference a success. PyCon Pune is happy to announce that the Call for Proposals, for its 2nd edition, PyCon Pune, 2018 is now open! It will remain open till 15th September 2017.
 We welcome talks from all sphere of life, including education, upstream project contributions, industry, science, community, legal, government, anything related to Python and to the community in general.</description>
-    </item>
-    
-    <item>
-      <title>A new Mailing List for us</title>
-      <link>https://pune.pycon.org/blog/post/a-new-mailing-list-for-us/</link>
-      <pubDate>Thu, 08 Jun 2017 18:39:52 +0530</pubDate>
-      
-      <guid>https://pune.pycon.org/blog/post/a-new-mailing-list-for-us/</guid>
-      <description>PyCon Pune 2017 was a grand success. Now, its time to set the tune for PyCon Pune 2018.
-Since our first endeavor it has always been a community driven event and we wish to be so. To promote the goal, Sayan Chowdhury has announced the call for the design volunteers, helping in building our 2018 website. To give a shape to our 2018 edition we, the community at large, need to communicate.</description>
     </item>
     
   </channel>

@@ -7,15 +7,24 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016 All rights reserved</copyright>
-    <lastBuildDate>Thu, 08 Jun 2017 18:39:52 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jul 2017 16:00:00 +0530</lastBuildDate>
     
 	<atom:link href="https://pune.pycon.org/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>2018</title>
+      <link>https://pune.pycon.org/blog/tags/2018/</link>
+      <pubDate>Thu, 27 Jul 2017 16:00:00 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Announcement</title>
       <link>https://pune.pycon.org/blog/tags/announcement/</link>
-      <pubDate>Thu, 08 Jun 2017 18:39:52 +0530</pubDate>
+      <pubDate>Thu, 27 Jul 2017 16:00:00 +0530</pubDate>
       
       <guid>https://pune.pycon.org/blog/tags/announcement/</guid>
       <description></description>
@@ -36,6 +45,15 @@
       <pubDate>Tue, 20 Dec 2016 14:39:17 +0530</pubDate>
       
       <guid>https://pune.pycon.org/blog/tags/care/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cfp</title>
+      <link>https://pune.pycon.org/blog/tags/cfp/</link>
+      <pubDate>Thu, 27 Jul 2017 16:00:00 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/cfp/</guid>
       <description></description>
     </item>
     
@@ -96,7 +114,7 @@
     <item>
       <title>Pyconpune</title>
       <link>https://pune.pycon.org/blog/tags/pyconpune/</link>
-      <pubDate>Thu, 08 Jun 2017 18:39:52 +0530</pubDate>
+      <pubDate>Thu, 27 Jul 2017 16:00:00 +0530</pubDate>
       
       <guid>https://pune.pycon.org/blog/tags/pyconpune/</guid>
       <description></description>
@@ -126,6 +144,15 @@
       <pubDate>Wed, 04 Jan 2017 12:00:00 +0530</pubDate>
       
       <guid>https://pune.pycon.org/blog/tags/sponsor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Talk</title>
+      <link>https://pune.pycon.org/blog/tags/talk/</link>
+      <pubDate>Thu, 27 Jul 2017 16:00:00 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/tags/talk/</guid>
       <description></description>
     </item>
     
