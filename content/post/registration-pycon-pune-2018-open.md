@@ -1,5 +1,5 @@
 +++
-date = "2017-10-12T21:51:36+05:30"
+date = "2017-10-14T21:51:36+05:30"
 slug = "registration-pycon-pune-2018-open"
 tags = ["pycon", "pyconpune"]
 title = "The Registration for the PyCon Pune 2018 is  now open."
