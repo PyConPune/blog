@@ -40,6 +40,6 @@ the global Python community.
 
 A lot of folks missed attending PyCon Pune 2017, as the tickets were over in a
 blink. So don't procrastinate, [Get yourself a ticket
-now](https://pune.pycon.org/2018/register/)
+now.](https://pune.pycon.org/2018/register/)
 
 *See you at PyCon Pune 2018.*
