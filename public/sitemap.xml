@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://pune.pycon.org/blog/post/registration-pycon-pune-2018-open/</loc>
+    <lastmod>2017-10-12T21:51:36+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>https://pune.pycon.org/blog/post/call-for-proposal-is-open-now/</loc>
     <lastmod>2017-07-27T16:00:00+05:30</lastmod>
   </url>
@@ -130,19 +135,25 @@
   
   <url>
     <loc>https://pune.pycon.org/blog/post/</loc>
-    <lastmod>2017-07-27T16:00:00+05:30</lastmod>
+    <lastmod>2017-10-12T21:51:36+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pune.pycon.org/blog/</loc>
-    <lastmod>2017-07-27T16:00:00+05:30</lastmod>
+    <lastmod>2017-10-12T21:51:36+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pune.pycon.org/blog/tags/pycon/</loc>
+    <lastmod>2017-10-12T21:51:36+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://pune.pycon.org/blog/tags/pyconpune/</loc>
-    <lastmod>2017-07-27T16:00:00+05:30</lastmod>
+    <lastmod>2017-10-12T21:51:36+05:30</lastmod>
     <priority>0</priority>
   </url>
   
