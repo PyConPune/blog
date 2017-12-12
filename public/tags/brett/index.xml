@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on PyCon Pune Blog</title>
-    <link>https://pune.pycon.org/blog/tags/python/</link>
-    <description>Recent content in Python on PyCon Pune Blog</description>
+    <title>Brett on PyCon Pune Blog</title>
+    <link>https://pune.pycon.org/blog/tags/brett/</link>
+    <description>Recent content in Brett on PyCon Pune Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016 All rights reserved</copyright>
     <lastBuildDate>Tue, 12 Dec 2017 18:00:00 +0530</lastBuildDate>
     
-	<atom:link href="https://pune.pycon.org/blog/tags/python/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pune.pycon.org/blog/tags/brett/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,16 +20,6 @@
       <guid>https://pune.pycon.org/blog/post/welcome-brett-cannon-our-first-keynote-speaker/</guid>
       <description>PyCon Pune 2018 is thrilled to welcome Brett Cannon, our first keynote speaker.
 &amp;ldquo;Came for the language and stayed for the community&amp;rdquo; - our motto is the quote that actually originated the idea of having PyCon Pune. The lines which was used in two different Python Conferences of India in 2017. Therefore apart from Python, the love for this quote is also binding the Python Community in India. Now is the our chance to meet the person behind that thought, in PyCon Pune 2018.</description>
-    </item>
-    
-    <item>
-      <title>Why You Should Attend PyCon Pune 2017</title>
-      <link>https://pune.pycon.org/blog/post/why-you-should-attend-pycon-pune-2017/</link>
-      <pubDate>Tue, 06 Dec 2016 14:57:00 +0530</pubDate>
-      
-      <guid>https://pune.pycon.org/blog/post/why-you-should-attend-pycon-pune-2017/</guid>
-      <description>No matter you&amp;rsquo;re new or old to Python New to Python? Don&amp;rsquo;t know how to get started? No worries! You are in right place. Yes you just read it right! PyCon is one of the best places to learn Python.
-Old to Python? There will be various talks with deep knowledge and ideas to challenge you. Finally, you have got a place to get people work on your project i.</description>
     </item>
     
   </channel>
