@@ -17,7 +17,7 @@ He is specially excited about regional PyCons. Because regional PyCons offer a g
  
 So you the Pythonista who wants to take the first step towards creating the language, stuck with your in your work in CPython, needs help regarding your project work, ideas or wants someone to guide you, mentor you this is your opportunity to get help from this ever helpful person.
 
-Therefore do not be late and do not wait book your tickets for PyCon Pune 2018 now. Yes, unfortunately the Devs Sprints tickets are over but worry not you can still be a part of PyCon Pune 2018! How? You can go for the "Supporter Ticket" option to be a part of the Dev Sprints. More details to be found in our [website](https://pune.pycon.org/2018/).
+Therefore do not be late and do not wait book your tickets for PyCon Pune 2018 now. Yes, unfortunately the Devs Sprints tickets are over but worry not you can still be a part of PyCon Pune 2018! How? You can go for the "Supporter Ticket" option to be a part of the Dev Sprints. More details to be found in our [website](https://pune.pycon.org/2018/register/).
 
 Register and meet with Brett at PyCon Pune 2018 - [https://pune.pycon.org/2018/register/](https://pune.pycon.org/2018/register/)
 

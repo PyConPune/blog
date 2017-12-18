@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>2016 All rights reserved</copyright>
-    <lastBuildDate>Tue, 12 Dec 2017 18:00:00 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 18 Dec 2017 21:51:36 +0530</lastBuildDate>
     
 	<atom:link href="https://pune.pycon.org/blog/tags/pyconpune/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PyCon Pune 2018 cancelled</title>
+      <link>https://pune.pycon.org/blog/post/pycon-pune-2018-cancelled/</link>
+      <pubDate>Mon, 18 Dec 2017 21:51:36 +0530</pubDate>
+      
+      <guid>https://pune.pycon.org/blog/post/pycon-pune-2018-cancelled/</guid>
+      <description>PyCon Pune 2018 started with a huge enthusiasm and to make the event much bigger and better than 2017. The preparations for the event was in full swing until we hit the biggest blocker to continue the event - money.
+The event is primarily dependent on ticket sales and sponsorships. As on date, we have received sponsorships from the following organizations: - Python Software Foundation - Red Hat - Travis CI</description>
+    </item>
     
     <item>
       <title>Welcome Brett Cannon, Our First Keynote Speaker</title>
